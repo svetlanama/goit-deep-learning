@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Optional: virtualenv files
+.python-version
+
+pet_finder_final/data/images/images/
+pet_finder_final/cache
+pet_finder_final/catboost_info/
+
+.DS_Store

@@ -1,0 +1,14 @@
+{
+  "id": "svitlanamoiseyenko/dz-final-moiseyenko-s",
+  "title": "DZ Final — Moiseyenko S",
+  "code_file": "dz_final_Moiseyenko_S.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": ["deep-learning-for-computer-vision-and-nlp-2026-04"],
+  "kernel_sources": []
+}
